@@ -15,14 +15,14 @@ Blender GIS can be found [here](https://github.com/domlysz/BlenderGIS).
 
 
 ## ArcMAP Export
-[ArcGIS] ![[BlenderGIS_1.png]]
+![ArcGIS](BlenderGIS_1.png)
 
 In ArcMap I collated the layers I wanted to use. Each layer was saved as a **Shapefile (.shp)** within the Catalog. Further instructions on ArcMap exporting [here](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/overview/export-data.htm)
 
 
 ## Blender GIS Import
 First, find a basemap. GIS - Web Geodata - Basemap
-![[BlenderGIS_2.png]]
+![ArcGIS](BlenderGIS_2.png)
 
 Basemaps come from a number of sources and can be customized based on needs and map projections. For full documentation on how to manipulate the map, see [here](https://github.com/domlysz/BlenderGIS/wiki/Quick-start). 
 
